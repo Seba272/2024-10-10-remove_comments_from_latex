@@ -1,0 +1,8 @@
+questa è una prova % ma questo non lo vedi
+% e neppure questo
+	% lo spazio prima rimane
+che continua senza commenti.
+%%%%%%%%%%%%%%%
+Spero funzioni.
+
+% Se non funziona, chiama Sebastiano.
