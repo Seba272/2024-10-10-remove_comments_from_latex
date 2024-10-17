@@ -1,7 +1,10 @@
 questa è una prova % ma questo non lo vedi
 % e neppure questo
 	% lo spazio prima rimane
-che continua senza commenti.
+che continua senza commenti. % Però se c'è una riga vuota...
+ 	
+Ecco una riga vuota.
+
 %%%%%%%%%%%%%%%
 Spero funzioni.
 
